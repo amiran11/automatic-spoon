@@ -21,7 +21,7 @@ h2{
   font-weight: normal;
 }
 h3{
-  color: #83A7CC;
+  color: #103333;
 }
 
 p{
@@ -44,14 +44,14 @@ p{
 
 .bottom-cloud{
   position: absolute;
-  left:25%;
-  bottom: 50%;
+  left: 500px;
+  bottom: 350px;
 }
 
 .top-cloud{
   position: absolute;
-  right: 30%;
-  top: 10%;
+  right: 500px;
+  top: 120px;
   }
   .policy{
     text-decoration: underline;
